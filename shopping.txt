@@ -1,7 +1,8 @@
-shopping
+shopping list:
 
 oranges
 cherries
 mangoes
 carrots
 bananas
+cerial
