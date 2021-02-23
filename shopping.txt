@@ -1,0 +1,7 @@
+shopping
+
+oranges
+cherries
+mangoes
+carrots
+bananas
